@@ -5,9 +5,13 @@ gitconfig.yaml
 kubeconfig.yaml
 
 # 项目目录
-w7panel/
-w7panel-ui/
+# w7panel - submodule: https://github.com/w7panel/w7panel
+# w7panel
+# w7panel-ui - submodule: https://github.com/w7panel/w7panel-ui
+# w7panel-ui
 dist/
-docs/
+# docs - submodule: https://github.com/w7panel/docs
+# docs
 backup_repo/
-codeblitz/
+# codeblitz - submodule: https://github.com/w7panel/codeblitz
+# codeblitz
